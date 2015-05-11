@@ -27,4 +27,4 @@ title : Atom Feed
   {% endif %}
  {% endfor %}
 
-</feed>
+</fed>
